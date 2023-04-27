@@ -27,6 +27,6 @@ st.header("Conclusion")
 st.write("The Education track is an important program that is helping to bridge the digital divide and empower people to take advantage of the many opportunities that technology offers. By increasing visibility of technology and providing basic skills training, it's helping to create a more inclusive and equitable society where everyone has the chance to succeed.")
 
 st.header("Made By - ")
-st.write("- This Project Is Made For We Code Hackathon By Code Wizards ")
+st.write("- This Project Is Made For [We Code](https://codeforgood.in/#home-section) Hackathon By Code Wizards ")
 
-st.write("Made For [We Code](https://codeforgood.in/#home-section).")
+
